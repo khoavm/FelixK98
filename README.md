@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm just guy falling in love with programing
+I'm just a guy falling in love with programing😄
 <!--
 **FelixK98/FelixK98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
